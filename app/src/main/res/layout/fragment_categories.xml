@@ -9,5 +9,5 @@
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         android:textSize="56sp"
-        android:text="Profile" />
+        android:text="Categories" />
 </RelativeLayout>

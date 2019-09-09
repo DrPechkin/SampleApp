@@ -5,6 +5,6 @@
     app:startDestination="@id/profileFragment">
     <fragment
         android:id="@+id/profileFragment"
-        android:name="com.github.viktorvedernikov.sampleapp.app.presentation.ProfileFragment"
+        android:name="com.github.viktorvedernikov.sampleapp.app.presentation.profile.ProfileFragment"
         android:label="ProfileFragment" />
 </navigation>

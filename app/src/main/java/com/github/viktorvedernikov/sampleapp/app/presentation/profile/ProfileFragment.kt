@@ -1,4 +1,4 @@
-package com.github.viktorvedernikov.sampleapp.app.presentation
+package com.github.viktorvedernikov.sampleapp.app.presentation.profile
 
 import com.github.viktorvedernikov.library_base.presentation.fragment.BaseContainerFragment
 import com.github.viktorvedernikov.sampleapp.R
